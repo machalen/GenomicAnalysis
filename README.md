@@ -3,3 +3,6 @@
 - plink
 - samtools
 - tabix
+- samtools
+- bcftools
+- impute5
